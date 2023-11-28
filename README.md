@@ -4,3 +4,6 @@
 
 ### running
 scrapy crawl fetchnews -o datasets.json
+
+### date
+28/11/2023
